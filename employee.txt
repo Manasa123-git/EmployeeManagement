@@ -1,0 +1,11 @@
+EMPLOYEE PAYROLL DETAILS
+========================
+Employee ID: 101
+Employee Name: manasa
+Department: HR
+Basic Salary: 5000000.0
+Total Working Days: 3
+Present Days: 2
+Absent Days: 1
+Attendance Percentage: 66.66666666666666
+Final Salary: 4500000.0
